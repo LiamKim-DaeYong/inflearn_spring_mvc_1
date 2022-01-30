@@ -1,6 +1,7 @@
 package hello.servlet.web.servlet;
 
 import hello.servlet.domain.member.MemberRepository;
+import org.springframework.ui.Model;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
